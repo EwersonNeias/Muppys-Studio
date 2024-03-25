@@ -1,6 +1,6 @@
 # Muppys-Studio 🎮
 
- :octocat: Repositorio do Sirius Kitten Fighting 🐱
+ :octocat: Repositorio do Sirius Kitten Fighting (SKF) 🐱
 
  # Codigos em C#
 
