@@ -14,6 +14,14 @@
 
 🔹 ❤️ Sistema de Vida
 
+🔹 	⛅ Canva Barra de Vida
+
+🔹 💀 Zona de Morte
+
+🔹 🎁 Coleta de Item
+
+🔹 🎲 Trap
+
  
 
 
